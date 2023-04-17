@@ -66,16 +66,21 @@ table{
     width: 100%;
 }
 thead{
-    background-color: rgb(79, 153, 250);
+    background-color: rgb(3, 138, 216);
     color: white;
 }
 
-
+.cyan{
+    background-color: rgb(106, 191, 217);
+}
 .smallcol{
     width: 20%;
+    text-align: left;
 
 }
 
 .largecol{
     width: 50%;
+    text-align: left;
 }
+
