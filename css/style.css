@@ -1,12 +1,21 @@
-
-#headerlogo{
-    height: 80px;
-    width: 900px;
-    background-color: rgb(37, 134, 214);
-    background-image: url("../img/pattern.png");
-    background-size: 30%;
+#container{
+    width: 1000px;
+    height: 800px;
+    margin-top: 0;
+    margin-left: 200px;
 }
 
+
+header #headerlogo{
+    width: 100%;
+    height: 100px;
+    background-color: aqua;
+    margin: auto;
+    background-color: rgb(37, 134, 214);
+    background-image: url("../img/pattern.png");
+    background-size:33%;
+
+}
 
 
 #headersublogo{
@@ -15,4 +24,18 @@
     background-image: url("../img/logo.svg");
     background-repeat: no-repeat;
     background-position: center;
+}
+
+
+author{
+   color:rgb(37, 134, 214);
+}
+
+#writtenby{
+    color: gray;
+}
+
+#data{
+    color: gray;
+    font-size: 10px;
 }
