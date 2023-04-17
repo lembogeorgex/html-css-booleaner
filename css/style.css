@@ -59,3 +59,23 @@ ul{
     padding: 0;
 }
 
+
+table{
+    padding-top: 20px;
+    border-spacing: 0;
+    width: 100%;
+}
+thead{
+    background-color: rgb(79, 153, 250);
+    color: white;
+}
+
+
+.smallcol{
+    width: 20%;
+
+}
+
+.largecol{
+    width: 50%;
+}
