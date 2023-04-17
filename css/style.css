@@ -6,3 +6,13 @@
     background-image: url("../img/pattern.png");
     background-size: 30%;
 }
+
+
+
+#headersublogo{
+    width: 20%;
+    height: 100%;
+    background-image: url("../img/logo.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
