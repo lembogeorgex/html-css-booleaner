@@ -1,8 +1,11 @@
-#container{
-    width: 1000px;
-    height: 800px;
+body{
     margin-top: 0;
-    margin-left: 200px;
+}
+
+#container{
+    width: 1100px;
+    height: 800px;
+    margin-left: 120px;
 }
 
 
@@ -31,11 +34,16 @@ author{
    color:rgb(37, 134, 214);
 }
 
-#writtenby{
+#caption{
     color: gray;
 }
 
 #data{
+    color: gray;
+    font-size: 10px;
+}
+
+figcaption{
     color: gray;
     font-size: 10px;
 }
