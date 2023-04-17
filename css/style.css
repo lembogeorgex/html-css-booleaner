@@ -30,7 +30,7 @@ header #headerlogo{
 }
 
 
-author{
+#author{
    color:rgb(37, 134, 214);
 }
 
@@ -46,4 +46,9 @@ author{
 figcaption{
     color: gray;
     font-size: 10px;
+}
+
+
+figure{
+    margin: auto;
 }
