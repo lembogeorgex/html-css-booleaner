@@ -4,7 +4,6 @@ body{
 
 #container{
     width: 1100px;
-    height: 800px;
     margin-left: 120px;
 }
 
@@ -84,3 +83,33 @@ thead{
     text-align: left;
 }
 
+
+footer h4{
+    color: gray;
+}
+
+#highlighted{
+    background-color: lawngreen;
+}
+
+
+.article{
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.one{
+    background-image: url("../img/monitor.jpg");
+}
+
+.two{
+    margin-top: 5px;
+    background-image: url("../img/graph.jpg");
+}
+
+.under{
+    color: white;
+    font-size: 30px;
+}
