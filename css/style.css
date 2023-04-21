@@ -1,14 +1,15 @@
 body{
-    margin-top: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     
 }
 #container{
     width: 1080px;
-    margin: auto;
+    margin:  0 auto;
 }
 
 #bonusbanner{
-    width: 1080px;
     height: 100px;
     background-color: rgb(24, 163, 255);
 }
@@ -19,15 +20,21 @@ body{
     background-size:20%;
 
 }
+header h1{
 
+}
 
+.headsubtitle{
+    margin: 0 auto;
+    text-align: center;
+}
 #headersublogo{
     width: 10%;
     height: 100%;
     background-image: url("../img/logo.svg");
     background-repeat: no-repeat;
     background-position: center;
-    margin-left: 200px;
+    margin-left: 500px;
 }
 
 
